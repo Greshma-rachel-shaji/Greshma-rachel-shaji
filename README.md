@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Greshma-rachel-shaji
 - 👀 I’m interested in data analytics
-- 🌱 I’m currently learning ...sql,pythom,tableau,excel and statistical concepts
+- 🌱 I’m currently learning ...sql,python,powerbi,tableau,excel and statistical concepts
 - 💞️ I’m looking to collaborate on ...data analytics projects
 - 📫 How to reach me ...@ --greshma.rachel7@gmail.com
 
